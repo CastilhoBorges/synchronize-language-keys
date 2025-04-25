@@ -9,7 +9,7 @@ export async function translate(text, targetLanguage) {
     text,
     target_lang: targetLanguage.toUpperCase(),
   });
-  console.log(text, targetLanguage, 'TESTE');
+
   const response = await fetch(DEEPL_API_URL, {
     method: 'POST',
     headers: {
