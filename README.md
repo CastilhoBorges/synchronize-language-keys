@@ -4,7 +4,7 @@ Uma utilidade para gerenciar e sincronizar arquivos de tradução multilíngues 
 
 ## Motivação
 
-Este projeto foi criado porque no software onde trabalho, os arquivos de localização (i18n) em português, inglês e espanhol estavam desorganizados - alguns com propriedades que não existiam nos outros. Esta ferramenta resolve esse problema e ajuda a manter a consistência no futuro, pois:
+Este projeto foi criado porque no software onde trabalho, os arquivos de localização (i18n) em português, inglês e espanhol estavam desorganizados - alguns com propriedades que não existiam nos outros, e fora da ordem alfabetica. Esta ferramenta resolve esse problema e ajuda a manter a consistência no futuro, pois:
 
 1. Ordena todas as chaves em ordem alfabética para melhor organização
 2. Coloca alertas onde faltam traduções, facilitando identificar o que precisa ser traduzido
